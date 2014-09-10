@@ -1,0 +1,7 @@
+[ui]
+username = smcmillan <smcmillan@novodynamics.com>
+merge = vimdiff
+
+[merge-tools]
+vimdiff.executable = vim
+vimdiff.args = -d $base $local $output $other

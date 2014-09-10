@@ -1,0 +1,54 @@
+[submodule "dotfiles/vim/bundle/fugitive"]
+	path = dotfiles/vim/bundle/fugitive
+	url = http://github.com/tpope/vim-fugitive.git
+[submodule "dotfiles/vim/bundle/snipmate"]
+	path = dotfiles/vim/bundle/snipmate
+	url = https://github.com/msanders/snipmate.vim.git
+[submodule "dotfiles/vim/bundle/surround"]
+	path = dotfiles/vim/bundle/surround
+	url = https://github.com/tpope/vim-surround.git
+[submodule "dotfiles/vim/bundle/git"]
+	path = dotfiles/vim/bundle/git
+	url = https://github.com/tpope/vim-git.git
+[submodule "dotfiles/vim/bundle/supertab"]
+	path = dotfiles/vim/bundle/supertab
+	url = https://github.com/ervandew/supertab.git
+[submodule "dotfiles/vim/bundle/command-t"]
+	path = dotfiles/vim/bundle/command-t
+	url = https://github.com/wincent/Command-T.git
+[submodule "dotfiles/vim/bundle/pyflakes-pathogen"]
+	path = dotfiles/vim/bundle/pyflakes-pathogen
+	url = https://github.com/mitechie/pyflakes-pathogen.git
+[submodule "dotfiles/vim/bundle/ack"]
+	path = dotfiles/vim/bundle/ack
+	url = https://github.com/mileszs/ack.vim.git
+[submodule "dotfiles/vim/bundle/gundo"]
+	path = dotfiles/vim/bundle/gundo
+	url = https://github.com/sjl/gundo.vim.git
+[submodule "dotfiles/vim/bundle/pydoc"]
+	path = dotfiles/vim/bundle/pydoc
+	url = https://github.com/fs111/pydoc.vim.git
+[submodule "dotfiles/vim/bundle/pep8"]
+	path = dotfiles/vim/bundle/pep8
+	url = https://github.com/vim-scripts/pep8.git
+[submodule "dotfiles/vim/bundle/py.test"]
+	path = dotfiles/vim/bundle/py.test
+	url = https://github.com/alfredodeza/pytest.vim.git
+[submodule "dotfiles/vim/bundle/makegreen"]
+	path = dotfiles/vim/bundle/makegreen
+	url = https://github.com/reinh/vim-makegreen
+[submodule "dotfiles/vim/bundle/tasklist"]
+	path = dotfiles/vim/bundle/tasklist
+	url = https://github.com/vim-scripts/TaskList.vim.git
+[submodule "dotfiles/vim/bundle/nerdtree"]
+	path = dotfiles/vim/bundle/nerdtree
+	url = https://github.com/vim-scripts/The-NERD-tree.git
+[submodule "dotfiles/vim/bundle/syntastic"]
+  path = dotfiles/vim/bundle/syntastic
+  url = https://github.com/scrooloose/syntastic.git
+[submodule "dotfiles/vim/bundle/ropevim"]
+	path = dotfiles/vim/bundle/ropevim
+	url = https://github.com/python-rope/ropevim.git
+[submodule "dotfiles/vim/bundle/minibufexpl"]
+	path = dotfiles/vim/bundle/minibufexpl
+	url = https://github.com/techlivezheng/vim-plugin-minibufexpl.git
